@@ -1,0 +1,7 @@
+name: No_Eat_Limit
+version: '1.0-SNAPSHOT'
+main: org.Little_100.no_Eat_Limit.No_Eat_Limit
+api-version: '1.21'
+authors: [ Little_100 ]
+description: 吃食物不需要只能在饿的时候吃了
+website: www.little100.top
